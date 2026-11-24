@@ -50,6 +50,14 @@ business. The subscription for standup updates, expense
 reports and blame keeps the strongest reading on every
 criterion the judge weighs, in the order the judge weighs them.
 
+Revision (second pass): re-checked the line against the
+judge's criteria in their stated order — it must first be an
+absurd startup pitch, then land the joke in one read, then
+stay grounded in a real mechanism (lazy agents' standups,
+expense reports, failed cron jobs) so the absurdity has a
+true core. The blame-taking twist sits in the last words.
+Line and rationale kept unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
